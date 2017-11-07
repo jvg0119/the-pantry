@@ -1,2 +1,1 @@
-GitHub Checkpoint Assignment
-more notes
+Read me file
