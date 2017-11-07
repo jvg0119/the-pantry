@@ -1,1 +1,2 @@
- I am apple.txt inside master 
+
+I am in apple at branch1
